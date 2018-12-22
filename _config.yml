@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Walter Blog
+SEOTitle: walter.wang的博客 | Walter Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: cndeepeye@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "walter.wang的博客, deepeye, 王海明, lucene, solr, elasticsearch, hadoop, spark, 系统架构, 性能调优分布式"
+url: "http://deepeye.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/deepeye/deepeye.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     deepeye
+zhihu_username:     deepeye
+github_username:    deepeye
+#facebook_username:  .
+#jianshu_username:   e71990ada2fd
+twitter_username:   deepeye
 
 
 
